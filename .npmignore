@@ -1,0 +1,7 @@
+.idea
+.iml
+out
+bootstrap/local.properties
+bootstrap/.classpath
+node_modules
+*.log
